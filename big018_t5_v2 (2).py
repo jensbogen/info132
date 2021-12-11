@@ -1,7 +1,6 @@
 #big018_temaoppg05
 
 #Oppgave 1.)
-'''
 #Løsning med for-loop
 
 def fak(n):
@@ -37,7 +36,7 @@ olav = Monark('Olav V', 'Norge', '1957')
 harald = Monark('Harald V', 'Norge', '1991')
 
 kongerekke = [haakon.skriv(), olav.skriv(), harald.skriv()]
-'''
+
 #Oppgave 2b.)
 #Sliter på denne oppgaven, man må appende etterfølgeren, men jeg klarer ikke å komme fram til noe mer.
 #Kom kun så langt, tilbakemeldingene settes stor pris på 8^)
